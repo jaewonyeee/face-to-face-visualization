@@ -1,0 +1,3 @@
+#!/bin/bash
+cd /Users/jaewonyeee/Documents/ftfvis/DataCollection/Python
+python3 SerialShark.py
